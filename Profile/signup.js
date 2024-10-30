@@ -38,7 +38,7 @@ else {
         document.querySelector("#pass").value="";
         document.querySelector("#name").value="";
 
-     window.location.href="profile.html"
+     window.location.href="https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
      }
 }
 
@@ -48,7 +48,7 @@ document.getElementById('profile').addEventListener('click', function(){
     window.location.href = "profile.html"
   })
 document.getElementById('landingPage').addEventListener('click', function(){
-    window.location.href = "../Landingpage/index.html"
+    window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
 })
 
 document.getElementById('logIn').addEventListener('click', function(){

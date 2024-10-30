@@ -94,5 +94,5 @@ function sendtocart(ele,ind){
      }
 
 document.getElementById('landingPage').addEventListener('click', function(){
-window.location.href = "../Landingpage/index.html"
+window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
 })
