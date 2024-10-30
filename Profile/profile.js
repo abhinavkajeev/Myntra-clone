@@ -51,7 +51,7 @@ document.getElementById('profile').addEventListener('click', function(){
   window.location.href = "signup.html"
 })
 document.getElementById('landingPage').addEventListener('click', function(){
-  window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
+  window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Landingpage/index.html"
 })
 document.getElementById('signUp').addEventListener('click', function(){
   window.location.href = "../Profile/signup.html"

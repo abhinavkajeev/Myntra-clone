@@ -87,7 +87,7 @@
 
 
 document.getElementById('landingPage').addEventListener('click', function(){
-    window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
+    window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Landingpage/index.html"
 })
 var images = document.querySelectorAll('img')
 for(let i=0; i<images.length; i++){

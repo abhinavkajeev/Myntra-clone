@@ -587,7 +587,7 @@ localStorage.setItem("BagListObj" , JSON.stringify(bagList))
 
 // LANDING PAGE
 document.getElementById('landingPage').addEventListener('click', function(){
-window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html"
+window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Landingpage/index.html"
 })
 document.querySelector(".fa-heart").addEventListener("click",function(){
 window.location.href ="../wishlist/wishlist.html"

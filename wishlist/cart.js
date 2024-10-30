@@ -136,7 +136,7 @@ var cartarr = JSON.parse(localStorage.getItem("BagListObj"))||[];
         }
 
 document.getElementById('landingPage').addEventListener('click', function(){
-  window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Homepages/menHomePage.html";
+  window.location.href = "https://abhinavkajeev.github.io/Myntra-clone/Landingpage/index.html";
 
 }) 
 
